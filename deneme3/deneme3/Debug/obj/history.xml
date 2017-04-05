@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -g2 -Wall -O0 -c -DSTM32F407VG -I..\..\..\..\..\..\..\CoIDE\workspace\deneme3\components\coocox-master -I..\..\..\..\..\..\..\CoIDE\workspace\deneme3\components\coocox-master\STM32F407xx_cmsisboot\source -I..\..\..\..\..\..\..\CoIDE\workspace\deneme3\components\coocox-master\STM32F407xx_cmsisboot -I..\..\..\..\..\..\..\CoIDE\workspace\deneme3\components\coocox-master\STM32F407xx_cmsisboot\source\Hal -I..\..\..\..\..\..\..\CoIDE\workspace\deneme3">
+      <target file="stm32f4xx_hal_tim.o" lastModified="15b075e167c">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_tim.c" lastModified="15b07306f03"/>
+      </target>
+      <target file="stm32f4xx_hal_sd.o" lastModified="15b075e229f">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_sd.c" lastModified="15b07306ef5"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ramfunc.o" lastModified="15b075e0c99">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_flash_ramfunc.c" lastModified="15b07306ee6"/>
+      </target>
+      <target file="stm32f4xx_hal_wwdg.o" lastModified="15b075e3fbd">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_wwdg.c" lastModified="15b07306f28"/>
+      </target>
+      <target file="stm32f4xx_hal_flash.o" lastModified="15b075e1cc3">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_flash.c" lastModified="15b07306ee8"/>
+      </target>
+      <target file="stm32f4xx_hal_cortex.o" lastModified="15b075e2b17">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_cortex.c" lastModified="15b07306f62"/>
+      </target>
+      <target file="stm32f4xx_hal_dcmi.o" lastModified="15b075e2845">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dcmi.c" lastModified="15b07306f82"/>
+      </target>
+      <target file="stm32f4xx_hal_dma_ex.o" lastModified="15b075e2534">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dma_ex.c" lastModified="15b07306f71"/>
+      </target>
+      <target file="stm32f4xx_hal_msp_template.o" lastModified="15b075e3d07">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_msp_template.c" lastModified="15b07306ee4"/>
+      </target>
+      <target file="stm32f4xx_hal_dac_ex.o" lastModified="15b075e35f4">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dac_ex.c" lastModified="15b07306f4c"/>
+      </target>
+      <target file="stm32f4xx_hal_eth.o" lastModified="15b075e11be">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_eth.c" lastModified="15b07306ee2"/>
+      </target>
+      <target file="stm32f4xx_ll_fsmc.o" lastModified="15b075e1296">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_ll_fsmc.c" lastModified="15b07306ed1"/>
+      </target>
+      <target file="stm32f4xx_hal_rtc.o" lastModified="15b075e13d3">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_rtc.c" lastModified="15b07306f1a"/>
+      </target>
+      <target file="stm32f4xx_hal_pccard.o" lastModified="15b075e345f">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_pccard.c" lastModified="15b07306f08"/>
+      </target>
+      <target file="stm32f4xx_hal_rcc.o" lastModified="15b075e2932">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_rcc.c" lastModified="15b07306f81"/>
+      </target>
+      <target file="stm32f4xx_hal_can.o" lastModified="15b075e1ea7">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_can.c" lastModified="15b07306ecf"/>
+      </target>
+      <target file="stm32f4xx_hal_dac.o" lastModified="15b075e214f">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dac.c" lastModified="15b07306ebd"/>
+      </target>
+      <target file="stm32f4xx_hal_pwr.o" lastModified="15b075e1daa">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_pwr.c" lastModified="15b07306f27"/>
+      </target>
+      <target file="stm32f4xx_hal_rcc_ex.o" lastModified="15b075e25f7">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_rcc_ex.c" lastModified="15b07306f3c"/>
+      </target>
+      <target file="stm32f4xx_hal_uart.o" lastModified="15b075e14e7">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_uart.c" lastModified="15b07306ea9"/>
+      </target>
+      <target file="stm32f4xx_hal_rng.o" lastModified="15b075e0ef2">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_rng.c" lastModified="15b07306f61"/>
+      </target>
+      <target file="stm32f4xx_hal_adc.o" lastModified="15b075e2cbf">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_adc.c" lastModified="15b07306f51"/>
+      </target>
+      <target file="stm32f4xx_hal.o" lastModified="15b075e246a">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal.c" lastModified="15b07306f67"/>
+      </target>
+      <target file="stm32f4xx_hal_rtc_ex.o" lastModified="15b075e23a0">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_rtc_ex.c" lastModified="15b07306ec5"/>
+      </target>
+      <target file="stm32f4xx_hal_sdram.o" lastModified="15b075e276a">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_sdram.c" lastModified="15b07306e94"/>
+      </target>
+      <target file="stm32f4xx_hal_dma2d.o" lastModified="15b075e17e0">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dma2d.c" lastModified="15b07306f45"/>
+      </target>
+      <target file="stm32f4xx_hal_hash.o" lastModified="15b075e3b9c">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_hash.c" lastModified="15b07306f6c"/>
+      </target>
+      <target file="stm32f4xx_hal_dma.o" lastModified="15b075e3ef7">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_dma.c" lastModified="15b07306f39"/>
+      </target>
+      <target file="stm32f4xx_ll_fmc.o" lastModified="15b075e396f">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_ll_fmc.c" lastModified="15b07306ebb"/>
+      </target>
+      <target file="stm32f4xx_hal_sram.o" lastModified="15b075e3531">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_sram.c" lastModified="15b07306f2a"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ex.o" lastModified="15b075e2a39">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_flash_ex.c" lastModified="15b07306f3e"/>
+      </target>
+      <target file="stm32f4xx_hal_i2c_ex.o" lastModified="15b075e31c4">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_i2c_ex.c" lastModified="15b07306e9d"/>
+      </target>
+      <target file="stm32f4xx_hal_sai.o" lastModified="15b075e3c4f">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_sai.c" lastModified="15b07306e9f"/>
+      </target>
+      <target file="stm32f4xx_hal_hash_ex.o" lastModified="15b075e1730">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_hash_ex.c" lastModified="15b07306efc"/>
+      </target>
+      <target file="stm32f4xx_hal_crc.o" lastModified="15b075e26b7">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_crc.c" lastModified="15b07306f77"/>
+      </target>
+      <target file="startup_stm32f407xx.o" lastModified="15b0731c8dd">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\startup_stm32f407xx.S" lastModified="15b07306f5f"/>
+      </target>
+      <target file="stm32f4xx_hal_smartcard.o" lastModified="15b075e1a0c">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_smartcard.c" lastModified="15b07306eb6"/>
+      </target>
+      <target file="stm32f4xx_hal_nor.o" lastModified="15b075e32a3">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_nor.c" lastModified="15b07306ecc"/>
+      </target>
+      <target file="stm32f4xx_hal_i2c.o" lastModified="15b075e0e1d">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_i2c.c" lastModified="15b07306f6f"/>
+      </target>
+      <target file="stm32f4xx_hal_spi.o" lastModified="15b075e0bd0">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_spi.c" lastModified="15b07306e96"/>
+      </target>
+      <target file="stm32f4xx_hal_tim_ex.o" lastModified="15b075e38ba">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_tim_ex.c" lastModified="15b07306f2f"/>
+      </target>
+      <target file="stm32f4xx_hal_pcd_ex.o" lastModified="15b075e3042">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_pcd_ex.c" lastModified="15b07306f36"/>
+      </target>
+      <target file="stm32f4xx_hal_cryp.o" lastModified="15b075e2f85">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_cryp.c" lastModified="15b07306ed4"/>
+      </target>
+      <target file="stm32f4xx_hal_ltdc.o" lastModified="15b075e0fb5">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_ltdc.c" lastModified="15b07306e99"/>
+      </target>
+      <target file="stm32f4xx_hal_pcd.o" lastModified="15b075e2ecc">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_pcd.c" lastModified="15b07306f0a"/>
+      </target>
+      <target file="stm32f4xx_hal_i2s_ex.o" lastModified="15b075e1bf0">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_i2s_ex.c" lastModified="15b07306ed5"/>
+      </target>
+      <target file="stm32f4xx_ll_sdmmc.o" lastModified="15b075e3a34">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_ll_sdmmc.c" lastModified="15b07306f24"/>
+      </target>
+      <target file="stm32f4xx_hal_i2s.o" lastModified="15b075e2dc6">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_i2s.c" lastModified="15b07306ead"/>
+      </target>
+      <target file="stm32f4xx_hal_gpio.o" lastModified="15b075e3110">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_gpio.c" lastModified="15b07306f74"/>
+      </target>
+      <target file="stm32f4xx_hal_cryp_ex.o" lastModified="15b075e3ae8">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_cryp_ex.c" lastModified="15b07306f11"/>
+      </target>
+      <target file="main.o" lastModified="15b0bdd30a2">
+         <source file="..\..\..\app\main.c" lastModified="15b0bf0f4e3"/>
+      </target>
+      <target file="stm32f4xx_hal_iwdg.o" lastModified="15b075e107e">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_iwdg.c" lastModified="15b07306f4a"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15b075e2bd4">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\system_stm32f4xx.c" lastModified="15b07306ef8"/>
+      </target>
+      <target file="stm32f4xx_hal_hcd.o" lastModified="15b075e36fd">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_hcd.c" lastModified="15b07306f34"/>
+      </target>
+      <target file="stm32f4xx_ll_usb.o" lastModified="15b075e191a">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_ll_usb.c" lastModified="15b07306f57"/>
+      </target>
+      <target file="stm32f4xx_hal_nand.o" lastModified="15b075e338c">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_nand.c" lastModified="15b07306e86"/>
+      </target>
+      <target file="stm32f4xx_hal_irda.o" lastModified="15b075e1f9e">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_irda.c" lastModified="15b07306f8c"/>
+      </target>
+      <target file="stm32f4xx_hal_usart.o" lastModified="15b075e1b16">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_usart.c" lastModified="15b07306f20"/>
+      </target>
+      <target file="stm32f4xx_hal_pwr_ex.o" lastModified="15b075e37b9">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_pwr_ex.c" lastModified="15b07306f0f"/>
+      </target>
+      <target file="stm32f4xx_hal_adc_ex.o" lastModified="15b075e207b">
+         <source file="..\..\..\components\coocox-master\STM32F407xx_cmsisboot\source\Hal\stm32f4xx_hal_adc_ex.c" lastModified="15b07306f43"/>
+      </target>
+   </processor>
+</history>
